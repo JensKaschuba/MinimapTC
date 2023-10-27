@@ -1,0 +1,36 @@
+{
+  "name" : "MinimapTC",
+  "version" : "1.0",
+  "description" : "MinimapTC is a Template Component Wrapper for the Minimap Widget, which is delivered with APEX.",
+  "keywords" : ["map", "maplibre", "minimap"],
+  "homepage" : "https://github.com/JensKaschuba/MinimapTC",
+  "bugs" : {
+    "url" : "https://github.com/Dani3lSun/apex-plugin-guidedtour/issues",
+    "email" : "Jens@Kaschuba.de"
+  },
+  "license" : "MIT",
+  "commercial" : "No",
+  "author" : {
+    "name" : "Jens Kaschuba",
+    "email" : "Jens@Kaschuba.de",
+    "url" : "https://github.com/JensKaschuba/MinimapTC",
+    "twitter" : "JKaschuba",
+    "donationUrl" : "https://www.paypal.me/JensKaschuba"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/JensKaschuba/MinimapTC.git"
+  },
+  "oracle" : {
+    "versions" : ["23", "21", "19"],
+    "apex" : {
+      "versions" : ["23.1"],
+      "plugin" : {
+        "internalName" : "DE.KASCHUBA.MINIMAPTC",
+        "type" : "template component",
+        "demo" : "https://apex.oracle.com/pls/apex/r/kaschuba/minimaptc-demo/home",
+        "previewImage" : "https://raw.githubusercontent.com/JensKaschuba/MinimapTC/master/assets/mimimaptc_ir_screenshot.png"
+      }
+    }
+  }
+}
