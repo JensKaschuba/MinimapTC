@@ -31,6 +31,6 @@ In MinimapTC the WebComponent is also used to generate the GeoLocation in DMS fo
 > A good practise for the use of MinimapTC as Partial for an Interactive Report Column is the set the Rows per Page to a value < 10  
 
 ## Special Thanks
-- Philip Hartenfeller: [hartenfeller.dev] (https://hartenfeller.dev)
+- Philip Hartenfeller: [hartenfeller.dev](https://hartenfeller.dev)
 - The APEX dev team: GREAT JOB!
 
