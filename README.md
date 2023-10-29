@@ -11,10 +11,14 @@
 ## Installation
 - Download the Template Component Installation file
 ## Usage
-### Interactive Report (IR)
+### Interactive Report (IR) - Partial
 - Use a dummy NULL column in the SQL of the IR
 - assign the Template Component to this column
-- Set the attributs according to the use case
+- Set the attributes according to the use case
+### Region - Multiple(Report)
+- Create a region and set the type to MinimapTC
+- Set datasource 
+- Set the attributes according to the use case
 
 ## Attributes
 All attributes including help texts are available directly in the plugin.
