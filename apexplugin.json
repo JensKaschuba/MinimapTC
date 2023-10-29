@@ -22,7 +22,7 @@
     "url" : "https://github.com/JensKaschuba/MinimapTC.git"
   },
   "oracle" : {
-    "versions" : ["23", "21", "19"],
+    "versions" : ["23.3", "21.1", "19.1"],
     "apex" : {
       "versions" : ["23.1"],
       "plugin" : {
