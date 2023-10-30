@@ -5,7 +5,7 @@
   "keywords" : ["map", "maplibre", "minimap"],
   "homepage" : "https://github.com/JensKaschuba/MinimapTC",
   "bugs" : {
-    "url" : "https://github.com/Dani3lSun/apex-plugin-guidedtour/issues",
+    "url" : "https://github.com/JensKaschuba/MinimapTC/issues",
     "email" : "Jens@Kaschuba.de"
   },
   "license" : "MIT",
